@@ -1,0 +1,34 @@
+{
+  "name": "passport-lookback",
+  "version": "0.0.1",
+  "description": "Lookback OAuth2 strategy for Passport.",
+  "keywords": [
+    "passport",
+    "lookback",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lookback/passport-lookback.git"
+  },
+  "bugs": {
+    "url": "http://github.com/lookback/passport-lookback/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-lookback",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
