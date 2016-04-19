@@ -13,6 +13,10 @@ This library is forked from: https://github.com/mjpearson/passport-slack
 
 ## Usage
 
+#### Credentials
+
+Until we have implemented access to generate a client id and secret, you'll need to request these from help@lookback.io
+
 #### Configure Strategy
 
 Authenticate using a Lookback account and OAuth 2.0 tokens.  The strategy requires a callback, which
